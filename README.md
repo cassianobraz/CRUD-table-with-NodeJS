@@ -2,7 +2,7 @@
 
 ## CRUD completo
 
-## modos para testar esse projeto BACKEND:
+## Modos para testar esse projeto BACKEND:
 
 ### Com o node instalado na maquina digite o comando abaixo para baixar todas as dependências  
 
