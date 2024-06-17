@@ -61,6 +61,6 @@ app.delete('/:sigla', (req, res) => {
   res.status(200).send(timeRemovido);
 })
 
-app.listen(300, () => console.log('🚀 servidor rodando com sucesso'));
+app.listen(3333, () => console.log('🚀 servidor rodando com sucesso'));
 
 
