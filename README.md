@@ -17,3 +17,6 @@ npm run dev
 ```
 
 ### Só acessar pelo navegar o localhost:3333
+
+### Link caso queira testar agora:
+https://crud-table-with-node-js.vercel.app/
