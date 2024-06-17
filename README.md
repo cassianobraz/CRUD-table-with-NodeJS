@@ -4,7 +4,7 @@
 
 ## Modos para testar esse projeto BACKEND:
 
-### Com o node instalado na maquina digite o comando abaixo para baixar todas as dependências  
+### Com o node instalado na máquina digite o comando abaixo para baixar todas as dependências  
 
 ```
 npm i
